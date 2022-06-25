@@ -1,0 +1,12 @@
+C:\Users\GamerPC\source\repos\A2\A2.Models\obj\Debug\net5.0\A2.Models.csproj.AssemblyReference.cache
+C:\Users\GamerPC\source\repos\A2\A2.Models\obj\Debug\net5.0\A2.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GamerPC\source\repos\A2\A2.Models\obj\Debug\net5.0\A2.Models.AssemblyInfoInputs.cache
+C:\Users\GamerPC\source\repos\A2\A2.Models\obj\Debug\net5.0\A2.Models.AssemblyInfo.cs
+C:\Users\GamerPC\source\repos\A2\A2.Models\obj\Debug\net5.0\A2.Models.csproj.CoreCompileInputs.cache
+C:\Users\GamerPC\source\repos\A2\A2.Models\bin\Debug\net5.0\A2.Models.deps.json
+C:\Users\GamerPC\source\repos\A2\A2.Models\bin\Debug\net5.0\A2.Models.dll
+C:\Users\GamerPC\source\repos\A2\A2.Models\bin\Debug\net5.0\ref\A2.Models.dll
+C:\Users\GamerPC\source\repos\A2\A2.Models\bin\Debug\net5.0\A2.Models.pdb
+C:\Users\GamerPC\source\repos\A2\A2.Models\obj\Debug\net5.0\A2.Models.dll
+C:\Users\GamerPC\source\repos\A2\A2.Models\obj\Debug\net5.0\ref\A2.Models.dll
+C:\Users\GamerPC\source\repos\A2\A2.Models\obj\Debug\net5.0\A2.Models.pdb

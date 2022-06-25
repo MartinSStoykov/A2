@@ -1,0 +1,17 @@
+C:\Users\GamerPC\source\repos\A2\A2.BL\obj\Debug\net5.0\A2.BL.csproj.AssemblyReference.cache
+C:\Users\GamerPC\source\repos\A2\A2.BL\obj\Debug\net5.0\A2.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GamerPC\source\repos\A2\A2.BL\obj\Debug\net5.0\A2.BL.AssemblyInfoInputs.cache
+C:\Users\GamerPC\source\repos\A2\A2.BL\obj\Debug\net5.0\A2.BL.AssemblyInfo.cs
+C:\Users\GamerPC\source\repos\A2\A2.BL\obj\Debug\net5.0\A2.BL.csproj.CoreCompileInputs.cache
+C:\Users\GamerPC\source\repos\A2\A2.BL\bin\Debug\net5.0\A2.BL.deps.json
+C:\Users\GamerPC\source\repos\A2\A2.BL\bin\Debug\net5.0\A2.BL.dll
+C:\Users\GamerPC\source\repos\A2\A2.BL\bin\Debug\net5.0\ref\A2.BL.dll
+C:\Users\GamerPC\source\repos\A2\A2.BL\bin\Debug\net5.0\A2.BL.pdb
+C:\Users\GamerPC\source\repos\A2\A2.BL\bin\Debug\net5.0\A2.DL.dll
+C:\Users\GamerPC\source\repos\A2\A2.BL\bin\Debug\net5.0\A2.Models.dll
+C:\Users\GamerPC\source\repos\A2\A2.BL\bin\Debug\net5.0\A2.DL.pdb
+C:\Users\GamerPC\source\repos\A2\A2.BL\bin\Debug\net5.0\A2.Models.pdb
+C:\Users\GamerPC\source\repos\A2\A2.BL\obj\Debug\net5.0\A2.BL.csproj.CopyComplete
+C:\Users\GamerPC\source\repos\A2\A2.BL\obj\Debug\net5.0\A2.BL.dll
+C:\Users\GamerPC\source\repos\A2\A2.BL\obj\Debug\net5.0\ref\A2.BL.dll
+C:\Users\GamerPC\source\repos\A2\A2.BL\obj\Debug\net5.0\A2.BL.pdb
